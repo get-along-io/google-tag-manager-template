@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Along Information Commenting Platform",
+  "categories": ["PERSONALIZATION", "SOCIAL"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
