@@ -11,7 +11,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
-  "version": 4,
+  "version": 1,
   "securityGroups": [],
   "displayName": "Along Information Commenting Platform",
   "categories": ["PERSONALIZATION", "SOCIAL"],
