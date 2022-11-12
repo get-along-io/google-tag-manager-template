@@ -5,7 +5,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
-  "version": 1,
+  "version": 2,
   "securityGroups": [],
   "displayName": "Along Information Commenting Platform",
   "categories": ["PERSONALIZATION", "SOCIAL"],
