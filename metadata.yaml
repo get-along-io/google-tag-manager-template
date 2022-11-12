@@ -2,6 +2,8 @@ homepage: "https://getalong.io"
 documentation: "https://getalong.io/gtm-template"
 versions:
   # Latest version
+  - sha: 14b3f4942a53eccc68079b92da2d2ea3bb6853de
+    changeNotes: Fix template version.
   - sha: 9b6c045f30811529180900ab0057713911a99971
     changeNotes: Hopefully fix template.
   - sha: 1d43d9fc5b3260a79d3c57f6cf59a5be0087853b
