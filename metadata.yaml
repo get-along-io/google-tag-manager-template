@@ -2,5 +2,7 @@ homepage: "https://getalong.io"
 documentation: "https://getalong.io/gtm-template"
 versions:
   # Latest version
+  - sha: 1700b766eab04b27e03c1aad50c98ab8e3d2cd35
+    changeNotes: Update template and license that was missing name.
   - sha: 476807081494f2dbc0279d05a8b39a3efda98ed7
     changeNotes: Initial release.
